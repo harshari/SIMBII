@@ -1,0 +1,281 @@
+id	user_id	order_date	restaurant_id	item_name	special_instructions
+1	43	2017-05-10	6	Beef Enchilada	ketchup
+2	9	2017-06-30	3	Samosa	
+3	37	2017-06-15	1	Chicken Fajitas	Pickles on the side.
+4	31	2017-06-13	5	Picadillo	SRIRACHA SAUCE
+4	31	2017-06-13	5	Taquitos	
+5	22	2017-06-16	6	Beef Enchilada	no red onions.
+5	22	2017-06-16	6	Beef Enchilada	
+5	22	2017-06-16	6	Flautas	
+5	22	2017-06-16	6	Salsa	
+6	27	2017-06-09	13	Cannelloni	
+6	27	2017-06-09	13	Minestrone	
+6	27	2017-06-09	13	Vegetarian Lasagne	
+7	31	2017-05-06	14	Chicken Fajitas	ring doorbell
+7	31	2017-05-06	14	Sopa de albondiga	
+7	31	2017-05-06	14	Tamales	
+8	37	2017-05-28	1	Cheese pizza	Hey! You forgot my pickles last time. Pickles in a separate container please.
+8	37	2017-05-28	1	Margarita pizza	
+9	9	2017-06-21	13	Meat Lasagne	
+9	9	2017-06-21	13	Meat Lasagne	
+9	9	2017-06-21	13	Tiramisu	
+9	9	2017-06-21	13	Vegetarian Lasagne	
+10	9	2017-06-09	5	Beef Enchilada	asdf
+10	9	2017-06-09	5	Flautas	
+10	9	2017-06-09	5	Taquitos	
+11	25	2017-05-08	8	Extra cheese pizza	Walk to the garage and start singing the Lion King intro. I'll come out.
+11	25	2017-05-08	8	Hawaiian pizza	
+11	25	2017-05-08	8	Pepperoni pizza	
+11	25	2017-05-08	8	Pepperoni pizza	
+12	10	2017-05-16	15	Margarita pizza	*DIET* coke
+12	10	2017-05-16	15	Mushroom pizza	*DIET* coke
+13	38	2017-05-10	6	Vegetarian Fajitas	
+14	15	2017-05-11	3	Aloo Ghobi	The gate is tricky, please don't break it.
+14	15	2017-05-11	3	Samosa	
+15	38	2017-06-16	9	Cheese pizza	Draw a dragon fighting flamingo on the pizza box.
+15	38	2017-06-16	9	Extra cheese pizza	
+15	38	2017-06-16	9	Mushroom pizza	
+15	38	2017-06-16	9	Pepperoni pizza	
+16	8	2017-05-14	12	Chicken Biryani	The spider on the front porch is Frank. Frank guards the tomatoes. Be nice to Frank.
+16	8	2017-05-14	12	Garlic Naan	
+16	8	2017-05-14	12	Goat Biryani	
+16	8	2017-05-14	12	Samosa	
+17	24	2017-06-05	12	Goat Biryani	
+18	12	2017-06-25	12	Chicken Biryani	
+18	12	2017-06-25	12	Chicken Korma	
+18	12	2017-06-25	12	Garlic Naan	
+18	12	2017-06-25	12	Naan	
+19	22	2017-05-08	5	Tacos al pastor	
+20	34	2017-06-23	1	Nachos	kids sleeping. please don't ring the doorbell thank u!
+21	22	2017-05-15	3	Aloo Ghobi	mayonnaise
+21	22	2017-05-15	3	Pakora	
+21	22	2017-05-15	3	Samosa	
+22	48	2017-06-17	10	Risotto	Yell Pizza three times so we know you are not NYPD.
+23	21	2017-05-16	1	Nachos	blank
+23	21	2017-05-16	1	Nachos	blank
+23	21	2017-05-16	1	Queso Fundido	
+24	6	2017-05-25	15	Cheese pizza	Cut the pizza into Pokeball.
+24	6	2017-05-25	15	Cheese pizza	
+24	6	2017-05-25	15	Extra cheese pizza	
+24	6	2017-05-25	15	Margarita pizza	
+25	27	2017-06-02	3	Paneer Makhani	I live in the Tiny House in the backyard - behind the Oak.
+25	27	2017-06-02	3	Vegetable Biryani	
+26	35	2017-06-27	14	Cheese Enchilada	sweet tea
+26	35	2017-06-27	14	Cheese Enchilada	
+26	35	2017-06-27	14	Chimichangas	
+26	35	2017-06-27	14	Chimichangas	
+27	49	2017-05-29	1	Chalupa	Cleanse yourself with the sage in the mailbox.
+27	49	2017-05-29	1	Chalupa	
+27	49	2017-05-29	1	Nachos	
+27	49	2017-05-29	1	Picadillo	
+28	43	2017-06-05	13	Cannelloni	Draw a narwhal on the delivery box.
+29	40	2017-06-06	7	Cheese pizza	write me a poem on the pizza box.
+29	40	2017-06-06	7	Hawaiian pizza	
+29	40	2017-06-06	7	Margarita pizza	
+30	25	2017-05-31	2	Aloo Ghobi	knock
+30	25	2017-05-31	2	Chicken Tikka Masala	
+30	25	2017-05-31	2	Peshwari Naan	
+30	25	2017-05-31	2	Peshwari Naan	
+31	24	2017-05-23	1	Beef Fajitas	Don't forget the drinks thanks!
+31	24	2017-05-23	1	Burrito	
+31	24	2017-05-23	1	Nachos	
+32	1	2017-06-25	14	Beef Fajitas	don't look me in the eye
+32	1	2017-06-25	14	Beef Fajitas	
+32	1	2017-06-25	14	Chicken Fajitas	
+32	1	2017-06-25	14	Chicken Fajitas	
+33	44	2017-05-25	12	Chicken Korma	
+33	44	2017-05-25	12	Garlic Naan	
+34	35	2017-05-05	7	Cheese pizza	Cut the pizza into pentagram \m/
+34	35	2017-05-05	7	Margarita pizza	
+34	35	2017-05-05	7	Sausage pizza	
+35	32	2017-05-04	5	Beef Enchilada	call and i will come out
+35	32	2017-05-04	5	Picadillo	
+35	32	2017-05-04	5	Taquitos	
+36	47	2017-05-04	13	Cannelloni	
+36	47	2017-05-04	13	Linguini with clam sauce	
+36	47	2017-05-04	13	Meat Lasagne	
+36	47	2017-05-04	13	Pasta Carbonara	
+37	2	2017-06-13	10	Bucatini all'Amatriciana	Please make one additional tiny version of my order for my hamster.
+37	2	2017-06-13	10	Risotto	dont judge me
+37	2	2017-06-13	10	Risotto	
+37	2	2017-06-13	10	Risotto	
+38	34	2017-05-27	5	Beef Enchilada	Door Code: Codecademy
+38	34	2017-05-27	5	Beef Enchilada	
+38	34	2017-05-27	5	Picadillo	
+39	2	2017-06-05	2	Channa Masala	Soda shaken, not stirred.
+39	2	2017-06-05	2	Naan	
+39	2	2017-06-05	2	Peshwari Naan	
+40	2	2017-06-18	7	Cheese pizza	Draw Yoda on pizza box.
+40	2	2017-06-18	7	Hawaiian pizza	
+40	2	2017-06-18	7	Hawaiian pizza	
+41	50	2017-05-11	9	Cheese pizza	asdfjkl;
+41	50	2017-05-11	9	Cheese pizza	
+41	50	2017-05-11	9	Hawaiian pizza	Please please please please please do not give me ANY plasticware #motherearth
+41	50	2017-05-11	9	Mushroom pizza	
+42	17	2017-05-30	12	Garlic Naan	
+42	17	2017-05-30	12	Goat Biryani	no onions please
+42	17	2017-05-30	12	Goat Biryani	
+43	36	2017-05-03	11	Extra cheese pizza	Cut Pizza into concentric circles.
+43	36	2017-05-03	11	Extra cheese pizza	
+43	36	2017-05-03	11	Extra cheese pizza	
+43	36	2017-05-03	11	Sausage pizza	
+44	36	2017-05-18	1	Chalupa	diet coke
+44	36	2017-05-18	1	Queso Fundido	
+45	41	2017-06-08	10	Meat Lasagne	
+45	41	2017-06-08	10	Minestrone	
+45	41	2017-06-08	10	Penne all'arrabbiata	super hungover. let yourself in pass the fridge turn left and double doors my bedroom. im in my pajamas watching james bond 1love
+45	41	2017-06-08	10	Penne all'arrabbiata	
+46	33	2017-06-04	10	Cheese Ravioli	
+46	33	2017-06-04	10	Risotto	
+47	28	2017-05-03	15	Extra cheese pizza	#hangry
+47	28	2017-05-03	15	Hawaiian pizza	#hangry
+47	28	2017-05-03	15	Mushroom pizza	#hangry
+48	28	2017-05-31	12	Goat Biryani	
+48	28	2017-05-31	12	Naan	
+48	28	2017-05-31	12	Vegetable Biryani	
+48	28	2017-05-31	12	Vegetable Biryani	
+49	16	2017-06-03	9	Extra cheese pizza	asdf
+49	16	2017-06-03	9	Hawaiian pizza	
+49	16	2017-06-03	9	Mushroom pizza	
+49	16	2017-06-03	9	Sausage pizza	
+50	29	2017-05-24	10	Cheese Ravioli	allergic to peanuts
+50	29	2017-05-24	10	Panna cotta	
+50	29	2017-05-24	10	Risotto	
+50	29	2017-05-24	10	Risotto	
+51	6	2017-05-10	2	Naan	
+52	50	2017-06-04	3	Aloo Ghobi	
+52	50	2017-06-04	3	Paneer Makhani	
+53	3	2017-05-09	15	Cheese pizza	
+54	50	2017-05-27	9	Extra cheese pizza	BBQ sauce
+54	50	2017-05-27	9	Mushroom pizza	
+55	25	2017-05-23	15	Hawaiian pizza	smile!
+55	25	2017-05-23	15	Mushroom pizza	
+55	25	2017-05-23	15	Pepperoni pizza	
+56	47	2017-06-02	8	Cheese pizza	
+56	47	2017-06-02	8	Hawaiian pizza	
+56	47	2017-06-02	8	Margarita pizza	
+56	47	2017-06-02	8	Sausage pizza	
+57	3	2017-06-17	9	Extra cheese pizza	
+57	3	2017-06-17	9	Pepperoni pizza	
+58	36	2017-06-28	7	Cheese pizza	
+59	21	2017-06-24	3	Aloo Ghobi	
+59	21	2017-06-24	3	Pakora	
+60	14	2017-06-18	3	Naan	creepily wink
+60	14	2017-06-18	3	Naan	
+61	45	2017-05-31	12	Garlic Naan	.
+61	45	2017-05-31	12	Garlic Naan	
+61	45	2017-05-31	12	Goat Biryani	
+61	45	2017-05-31	12	Goat Biryani	
+62	2	2017-05-24	11	Cheese pizza	beat me tic-tac-toe on the pizza box for $5 tip
+62	2	2017-05-24	11	Margarita pizza	
+62	2	2017-05-24	11	Mushroom pizza	
+63	40	2017-05-23	5	Tacos al pastor	
+63	40	2017-05-23	5	Taquitos	
+63	40	2017-05-23	5	Taquitos	
+64	27	2017-05-11	14	Beef Fajitas	KNOCK LOUD LIKE THE COPS FOR $20 TIP
+64	27	2017-05-11	14	Chimichangas	
+64	27	2017-05-11	14	Sopa de albondiga	
+64	27	2017-05-11	14	Sopa de albondiga	
+65	29	2017-05-19	9	Extra cheese pizza	extra napkins
+65	29	2017-05-19	9	Margarita pizza	
+65	29	2017-05-19	9	Mushroom pizza	
+65	29	2017-05-19	9	Mushroom pizza	
+66	34	2017-05-11	2	Aloo Ghobi	dr pepper thx
+66	34	2017-05-11	2	Samosa	
+66	34	2017-05-11	2	Samosa	
+67	3	2017-05-26	10	Panna cotta	Thank you~
+67	3	2017-05-26	10	Panna cotta	
+67	3	2017-05-26	10	Risotto	
+68	48	2017-06-10	2	Chicken Tikka Masala	
+68	48	2017-06-10	2	Lamb Biryani	
+68	48	2017-06-10	2	Naan	
+69	29	2017-06-30	6	Quesadillas	
+69	29	2017-06-30	6	Quesadillas	
+69	29	2017-06-30	6	Salsa	
+70	12	2017-05-20	7	Hawaiian pizza	Arrange the meat on the pizza so that it spells out the name of each meat.
+71	21	2017-06-11	2	Aloo Ghobi	
+71	21	2017-06-11	2	Chicken Tikka Masala	
+71	21	2017-06-11	2	Lamb Biryani	
+71	21	2017-06-11	2	Samosa	
+72	9	2017-06-21	10	Minestrone	
+73	2	2017-05-22	6	Beef Enchilada	Send your cutest delivery boy <3
+73	2	2017-05-22	6	Quesadillas	
+73	2	2017-05-22	6	Quesadillas	
+73	2	2017-05-22	6	Salsa	
+74	11	2017-05-26	14	Chicken Fajitas	
+74	11	2017-05-26	14	Tamales	
+75	4	2017-06-02	6	Quesadillas	
+75	4	2017-06-02	6	Salsa	
+75	4	2017-06-02	6	Vegetarian Fajitas	
+76	25	2017-05-14	8	Extra cheese pizza	crust not too crusty
+76	25	2017-05-14	8	Hawaiian pizza	
+76	25	2017-05-14	8	Mushroom pizza	
+77	22	2017-06-08	4	Bucatini all'Amatriciana	
+77	22	2017-06-08	4	Meat Lasagne	
+78	39	2017-05-23	5	Flautas	
+78	39	2017-05-23	5	Picadillo	
+78	39	2017-05-23	5	Tacos al pastor	
+78	39	2017-05-23	5	Tostadas	What's the most ketchup you're willing to give me?
+79	36	2017-06-01	1	Chalupa	mild sauce
+79	36	2017-06-01	1	Nachos	
+79	36	2017-06-01	1	Picadillo	
+79	36	2017-06-01	1	Picadillo	
+80	7	2017-05-26	7	Hawaiian pizza	Will you go to the prom with me?
+80	7	2017-05-26	7	Margarita pizza	
+80	7	2017-05-26	7	Pepperoni pizza	
+80	7	2017-05-26	7	Sausage pizza	
+81	36	2017-05-12	3	Aloo Ghobi	
+81	36	2017-05-12	3	Naan	
+81	36	2017-05-12	3	Naan	
+81	36	2017-05-12	3	Pakora	Beef milk please
+82	8	2017-06-27	3	Aloo Ghobi	
+82	8	2017-06-27	3	Naan	
+82	8	2017-06-27	3	Samosa	
+82	8	2017-06-27	3	Samosa	
+83	11	2017-06-25	11	Sausage pizza	
+84	22	2017-06-22	9	Extra cheese pizza	
+84	22	2017-06-22	9	Extra cheese pizza	
+84	22	2017-06-22	9	Hawaiian pizza	
+84	22	2017-06-22	9	Mushroom pizza	
+85	22	2017-05-14	13	Minestrone	
+86	6	2017-05-27	11	Cheese pizza	please be here before 11:30pm thanks
+86	6	2017-05-27	11	Margarita pizza	
+86	6	2017-05-27	11	Mushroom pizza	
+87	37	2017-05-15	9	Hawaiian pizza	
+88	50	2017-06-10	5	Taquitos	
+89	19	2017-05-19	10	Cheese Ravioli	
+89	19	2017-05-19	10	Minestrone	
+89	19	2017-05-19	10	Panna cotta	
+89	19	2017-05-19	10	Penne all'arrabbiata	
+90	5	2017-05-28	12	Chicken Korma	
+90	5	2017-05-28	12	Garlic Naan	
+91	49	2017-05-29	5	Tacos al pastor	
+92	13	2017-06-26	1	Beef Fajitas	knock
+92	13	2017-06-26	1	Chalupa	
+92	13	2017-06-26	1	Nachos	
+92	13	2017-06-26	1	Queso Fundido	
+93	15	2017-05-07	9	Cheese pizza	
+93	15	2017-05-07	9	Pepperoni pizza	
+94	2	2017-06-27	6	Beef Enchilada	Tell my neighbor at 3A to stop playing music at 4am and then deliver to 2A for a tip.
+94	2	2017-06-27	6	Chicken Enchilada	
+94	2	2017-06-27	6	Chilaquiles	
+94	2	2017-06-27	6	Flautas	
+95	37	2017-05-24	7	Cheese pizza	beat me tic-tac-toe on the pizza box for $5 tip
+95	37	2017-05-24	7	Margarita pizza	
+95	37	2017-05-24	7	Pepperoni pizza	
+95	37	2017-05-24	7	Sausage pizza	
+96	50	2017-06-25	13	Pasta Carbonara	
+96	50	2017-06-25	13	Vegetarian Lasagne	
+97	45	2017-06-26	6	Chicken Enchilada	my coworker and i are working overtime. can u write some inspiration/motivations on the box. u rock!
+97	45	2017-06-26	6	Chilaquiles	
+97	45	2017-06-26	6	Flautas	
+97	45	2017-06-26	6	Vegetarian Fajitas	
+98	42	2017-05-07	3	Naan	
+99	41	2017-06-30	9	Hawaiian pizza	extra pepperoni
+99	41	2017-06-30	9	Margarita pizza	
+99	41	2017-06-30	9	Mushroom pizza	
+99	41	2017-06-30	9	Sausage pizza	
+100	30	2017-05-06	1	Beef Fajitas	Tell my neighbor at 3A to stop playing music at 4am and then deliver to 2A for a tip.
+100	30	2017-05-06	1	Beef Fajitas	
+100	30	2017-05-06	1	Beef Fajitas	
+100	30	2017-05-06	1	Nachos	call!
